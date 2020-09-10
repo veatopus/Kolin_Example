@@ -1,0 +1,2 @@
+rootProject.name='Kolin_Example'
+include ':app'
